@@ -1,0 +1,5 @@
+*.dll
+*.pdb
+tests.v12.suo
+obj/
+bin/
