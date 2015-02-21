@@ -89,10 +89,6 @@
       <Project>{416db8ab-2c5b-4c06-8303-017adbb5b45b}</Project>
       <Name>Extensions</Name>
     </ProjectReference>
-    <ProjectReference Include="..\LeaderSorter\LeaderSorter.csproj">
-      <Project>{4F853AE5-7D86-4861-AE05-DC208B4A02DE}</Project>
-      <Name>LeaderSorter</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
